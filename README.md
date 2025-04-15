@@ -1,4 +1,4 @@
-# medical_interactive_viz: A Medical Visualization Library (Python/Altair)
+# altair_medical: A Medical Visualization Library (Python/Altair)
 A library of common visualisations useful for medical applications
 Author: Juan Delgado, PhD
 
